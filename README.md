@@ -16,7 +16,7 @@ Using this app, investors can make informed decisions about buying and selling g
 # Demonstration:
 Currently working on the UI of mobile application for the same in Android Studio using Flutter
 
-Impact:
+# Impact:
 - In testing, the model achieved an accuracy rate of 80%, which is significantly higher than traditional methods.
 - R squared error :  0.9887421869729113
 
