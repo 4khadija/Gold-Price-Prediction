@@ -1,5 +1,11 @@
 # Gold-Price-Prediction
 
+# Screenshots
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/75372993/227766450-da3c5268-a054-4717-9d3d-722df02e4a95.png">
+
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/75372993/227766201-0e5c0bf2-e0a1-4ee2-94da-37d3b5bb8384.png">
+
+
 # Introduction:
 Gold is a highly valued commodity, and predicting its price is a valuable tool for investors and people who want to buy gold. However, predicting the price of gold has traditionally been a challenging task due to its volatile nature. In this project, I developed a machine learning model embedded in an app to predict gold prices.
 
