@@ -1,8 +1,10 @@
 # Gold-Price-Prediction
 
 # Screenshots
+- Splash Screen
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/75372993/227766450-da3c5268-a054-4717-9d3d-722df02e4a95.png">
 
+- Main Screen
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/75372993/227766201-0e5c0bf2-e0a1-4ee2-94da-37d3b5bb8384.png">
 
 
